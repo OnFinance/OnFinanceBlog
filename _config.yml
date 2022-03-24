@@ -5,13 +5,13 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 safe: true
 defaults:
-    - scope:
-          path: ""
-          type: posts
+    scope:
+        path: ""
+        type: posts
     values:
-          permalink: "/blog/:title/"
-          layout: post
-          author:
+        permalink: "/blog/:title/"
+        layout: post
+        author:
 
 # Jekyll
 permalink: /blog/:title/
