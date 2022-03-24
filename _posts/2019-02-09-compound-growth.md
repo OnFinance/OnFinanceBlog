@@ -13,7 +13,7 @@ comments: true
 Let's start with a question. "What is the one habit that is common in all rich people? <strong>They invest</strong>. It's as simple as that. So what is it about investing that attracts these guys so much? <strong>Compounding</strong>.The great Albert Einstein once said <strong>“compound interest is the eighth wonder of the world. He who understands it, earns it … he who doesn’t … pays it."</strong> When someone of that stature says that it must be of some importance. 
 </p>
 
-<div class="thumbnail" style="text-align:center;"><img style="width:100%;height:auto;" src ="/images/timevalue.png" />
+<div class="thumbnail" style="text-align:center;"><img style="width:100%;height:auto;" src ="../images/timevalue.png" />
 <div class="caption" style="font-size:small">The graph shows your net worth if you keep adding Rs.50k annually at 20% of returns.
 <p>
 By year 20 your net worth would reach a staggering 1 crore and by year 30 it would be a staggering 7 crore. That's a 7 times increase in last 10 years of your investment
