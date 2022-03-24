@@ -2,10 +2,10 @@
 layout: post
 title: "AI In Finance"
 date: 2022-03-24
-linkedin_prof: "https://www.linkedin.com/in/prasann-durgumahanti-936286178"
+linkedin_prof: "https://www.linkedin.com/company/onfinanceofficial/"
 excerpt: "“Predicting the future isn’t magic , it’s artificial intelligence.”"
 summary: "“Predicting the future isn’t magic , it’s artificial intelligence.”"
-image: "https://cdn.europosters.eu/image/1300/posters/marvel-universe-i31869.jpg"
+image: "https://onfinance.in/blog/images/img1.png"
 author: Siddhant Ojha
 comments: true
 ---
