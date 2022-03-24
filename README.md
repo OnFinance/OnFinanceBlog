@@ -2,8 +2,8 @@
 - Make sure ruby and gem are installed and added to path
 - Run the following set of commands
 ```bash
-cd OnFinanceBlog
-gem install jekyll bundler
-gem install
+git clone https://github.com/OnFinance/blog.git
+cd blog
+bundle install
 bundle exec jekyll serve
 ```
