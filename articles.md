@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: articles
 title: Blog Page
 description: "Blog Posts"
 sitemap:

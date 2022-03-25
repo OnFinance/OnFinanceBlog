@@ -1,7 +1,7 @@
 # Site
 title: OnFinance
 locale: en_US
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 safe: true
 defaults:
@@ -9,12 +9,12 @@ defaults:
         path: ""
         type: posts
     values:
-        permalink: "/blog/:title/"
+        permalink: "articles/:title/"
         layout: post
         author:
 
 # Jekyll
-permalink: /blog/:title/
+permalink: articles/:title/
 markdown: kramdown
 highlighter: rouge
 kramdown:
